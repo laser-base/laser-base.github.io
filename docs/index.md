@@ -28,5 +28,23 @@ packages. The following packages are currently available:
     [:octicons-arrow-right-24: laser-generic](https://laser.idmod.org/laser-generic)
 </div>
 
+## LASER roadmap
 
+Following the initial 1.0 release of LASER in late 2025, we plan to develop the framework through 2026 to deliver enhanced usability, expanded modeling capabilities, and to provide additional documentaiton and resources to help with building and using LASER-based health and disease models. We will continue to focus on:
+- Improving researcher experience and speed
+- Releasing reference disease models for bootstrapping model development
+- Developing technical foundations to accelerate high-fidelity epidemiological modeling
+- Accelerating and simplifing model development and use through AI
 
+Although the specifics of the LASER roadmap are subject to change, in 2026, the high-level LASER release milestones include:
+
+### Q1 2026: Usability, modeling, and developer experience enhancements
+- Advanced demographics and spatial support 
+- Utility functions for LaserFrames
+- Broader AI support
+- Additional notebooks with examples
+- Documentation updates (for clarity, conciseness, and completeness)
+
+### Q2 2026: Analysis and calibration functions
+
+### 2H 2026: Reference models and metapop modeling (MPM) support
