@@ -30,7 +30,7 @@ packages. The following packages are currently available:
 
 ## LASER roadmap
 
-Following the initial 1.0 release of LASER in late 2025, we plan to develop the framework through 2026 to deliver enhanced usability, expanded modeling capabilities, and to provide additional documentaiton and resources to help with building and using LASER-based health and disease models. We will continue to focus on:
+Following the initial 1.0 release of LASER in late 2025, we plan to develop the framework through 2026 to deliver enhanced usability, expanded modeling capabilities, and to provide additional documentation and resources to help with building and using LASER-based health and disease models. We will continue to focus on:
 - Improving researcher experience and speed
 - Releasing reference disease models for bootstrapping model development
 - Developing technical foundations to accelerate high-fidelity epidemiological modeling
