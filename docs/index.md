@@ -1,6 +1,6 @@
 # LASER
 
-LASER (Light Agent Spatial modeling for ERadication) is a high-performance, agent-based simulation framework for modeling the spread of infectious diseases to better inform policy decisions. It supports spatial structure, age demographics, and modular disease logic using Python-based components. LASER is freely available for use under the MIT license and community contributions are welcome.
+LASER (Light Agent Spatial modeling for ERadication) is a high-performance, agent-based simulation framework for modeling the spread of infectious diseases to better inform policy decisions. It supports spatial structure, age demographics, and modular disease logic using Python-based components. LASER can also be configured to run as a compartmental model. LASER is freely available for use under the MIT license and community contributions are welcome.
 
 ## Design principles
 
