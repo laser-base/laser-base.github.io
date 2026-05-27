@@ -82,7 +82,7 @@ If you build, calibrate, or extend LASER models, these are the entry points:
 
     ---
 
-    Step-by-step tutorials for getting started with Starsim.
+    Step-by-step tutorials for getting started with LASER.
 
     [:octicons-arrow-right-24: Tutorials](https://laser.idmod.org/laser-generic/tutorials/)
 
@@ -106,7 +106,7 @@ If you build, calibrate, or extend LASER models, these are the entry points:
 
 ## Upcoming features
 
-After the initial 1.0 release of LASER in late 2025, we plan to continue development of the following:
+Following the initial 1.0 release of LASER in late 2025, we are focused on developing the following features:
 
 - Improvements to speed and user experience
 - Technical foundations to accelerate high-fidelity epidemiological modeling
