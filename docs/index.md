@@ -66,7 +66,7 @@ packages. The following packages are currently available:
 
 ## Get started
 
-If you build, calibrate, or extend LASER models, these are the entry points:
+If you want to build, calibrate, or extend LASER models, these are the entry points:
 
 <div class="grid cards" markdown>
 
