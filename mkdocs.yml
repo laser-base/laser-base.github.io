@@ -1,11 +1,11 @@
-site_name: LASER landing page # update to your project name
+site_name: LASER # update to your project name
 site_url: https://laser.idmod.org # update to your project URL for the correct modeling framework
 repo_name: laser-base.github.io # update to your repo name
 repo_url: https://github.com/laser-base/laser-base.github.io # update to your repo URL
 theme:
   name: material
   custom_dir: docs/customization/overrides
-  font: 
+  font:
     text: Roboto
     code: Roboto Mono
   logo: images/idm-logo-transparent.png
@@ -31,9 +31,9 @@ theme:
       accent: light blue
 
 nav: # Navigation structure for the documentation
-  - Home: index.md 
+  - Home: index.md
 
-# icons, semantic markup, emojis 
+# icons, semantic markup, emojis
 markdown_extensions:
   - toc:
       toc_depth: 3
@@ -64,7 +64,7 @@ markdown_extensions:
 # javascript and CSS customization
 extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
-extra_css: 
+extra_css:
   - customization/css/extra.css # custom CSS for footer spacing
 
 plugins:
@@ -74,7 +74,7 @@ plugins:
   - table-reader # enables rendering of CSV/TSV files as tables
 
 
-copyright: Copyright &copy; 2025 Gates Foundation. All rights reserved.
+copyright: Copyright &copy; 2026 Gates Foundation. All rights reserved.
 
 extra:
   generator: false
