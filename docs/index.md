@@ -46,7 +46,7 @@ packages. The following packages are currently available:
 
 <div class="grid cards" markdown>
 
--   :material-web:{ .lg .middle } __laser-generic__
+-   :material-web:{ .lg .middle } __laser-generic__{ #laser-generic }
 
     ---
 
@@ -54,7 +54,7 @@ packages. The following packages are currently available:
 
     [:octicons-arrow-right-24: laser-generic](https://laser.idmod.org/laser-generic)
 
--   :material-emoticon-sick-outline:{ .lg .middle } __laser-measles__
+-   :material-emoticon-sick-outline:{ .lg .middle } __laser-measles__{ #laser-measles }
 
     ---
 
